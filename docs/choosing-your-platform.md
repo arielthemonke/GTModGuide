@@ -4,8 +4,6 @@ Before installing mods, you need to choose the platform you will be running Gori
 
 ### Platforms
 
-- [Windows](windows.md)  
-  The most supported platform with the easiest setup and compatibility with BepInEx mods.
+- [Windows](windows.md)
 
-- [Linux](linux.md)  
-  Supported via Steam and Proton. Setup may require additional configuration, but most mods can run if requirements are met.
+- [Linux](linux.md)

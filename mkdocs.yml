@@ -9,12 +9,11 @@ theme:
     - navigation.sections
     - navigation.instant
     - header.autohide
+    - content.action.edit
   favicon: images/MatrixGorilla.png
   logo: images/MatrixGorilla.png
   icon:
     repo: fontawesome/brands/github
-  features:
-    - content.action.edit
   palette:
     - scheme: default
       toggle:
@@ -26,6 +25,7 @@ theme:
         name: Switch to light mode
 
 nav:
+
   - Home: index.md
   - Getting Started: getting-started.md
   - Choosing Your Platform:
@@ -40,3 +40,10 @@ extra:
       link: https://github.com/arielthemonke/GTModGuide
     - icon: fontawesome/brands/discord
       link: https://discord.gg/monkemod
+  alternate:
+    - name: English
+      link: /
+      lang: en
+    - name: עברית
+      link: /he/
+      lang: he
