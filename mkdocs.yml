@@ -1,0 +1,42 @@
+site_name: Gorilla Tag Modding Guide
+site_url: https://gtmoddingguide.freeram.xyz
+repo_name: arielthemonke/GTModGuide/
+edit_uri: edit/master/docs/
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.instant
+    - header.autohide
+  favicon: images/MatrixGorilla.png
+  logo: images/MatrixGorilla.png
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - content.action.edit
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Choosing Your Platform:
+    - Windows: windows.md
+    - Linux: linux.md
+  - Extras:
+    - Locating Game Path: game-path.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/arielthemonke/GTModGuide
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/monkemod
