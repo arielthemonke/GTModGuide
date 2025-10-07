@@ -1,7 +1,7 @@
 site_name: Gorilla Tag Modding Guide
 site_url: https://gtmoddingguide.freeram.xyz
-repo_name: arielthemonke/GTModGuide/
-edit_uri: edit/master/docs/
+repo_name: arielthemonke/GTModGuide
+edit_uri: https://github.com/arielthemonke/GTModGuide/edit/master/docs/
 
 theme:
   name: material
