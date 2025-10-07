@@ -47,3 +47,6 @@ extra:
     - name: עברית
       link: /he/
       lang: he
+    - name: Svenska
+      link: /se/
+      lang: se
